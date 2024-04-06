@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @richardz02
 - 👀 I’m interested in computer science/software engineering
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me: insta@richardz02; gmail: richardzhou163@gmail.com
 
 <!---
